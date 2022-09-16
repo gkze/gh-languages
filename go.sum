@@ -1,3 +1,4 @@
+github.com/MakeNowJust/heredoc v1.0.0 h1:cXCdzVdstXyiTqTvfqk9SDHpKNjxuom+DOlyEeQ4pzQ=
 github.com/cli/go-gh v0.1.0 h1:kMqFmC3ECBrV2UKzlOHjNOTTchExVc5tjNHtCqk/zYk=
 github.com/cli/go-gh v0.1.0/go.mod h1:eTGWl99EMZ+3Iau5C6dHyGAJRRia65MtdBtuhWc+84o=
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
