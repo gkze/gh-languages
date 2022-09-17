@@ -17,6 +17,9 @@ import (
 const languagesDefinitionYAMLURL string = "https://api.github.com/repos/github/linguist/contents/lib/linguist/languages.yml"
 
 func main() {
+	if len(os.Args) > 1 {
+		log.Fatal("This command does not take any arguments at the moment")
+	}
 	res, err := http.Get(languagesDefinitionYAMLURL)
 	if err != nil {
 		log.Fatal(err)
